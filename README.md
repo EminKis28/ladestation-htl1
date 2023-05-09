@@ -3,7 +3,7 @@ Ladestation HTL Hallein
 
 hahhhahah ich war hier
 suiiii
-maruicaaahhhhh
+maruicaaahhhhh <- gay
 
 We're no strangers to love
 You know the rules and so do I (do I)
