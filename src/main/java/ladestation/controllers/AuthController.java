@@ -37,7 +37,7 @@ import ladestation.login.repository.UserRepository;
 import ladestation.login.security.jwt.JwtUtils;
 import ladestation.login.security.services.UserDetailsImpl;
 
-@CrossOrigin(origins = "http://localhost:4200", allowCredentials = "true", maxAge = 3600, methods = {RequestMethod.GET, RequestMethod.POST})
+@CrossOrigin(origins = "http://localhost:4200/", allowCredentials = "true", maxAge = 3600, methods = {RequestMethod.GET, RequestMethod.POST})
 @RestController
 @RequestMapping("/api/auth")
 public class AuthController {
